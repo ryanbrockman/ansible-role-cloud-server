@@ -1,2 +1,2 @@
-# ansible-role-droplet
-Ansible role for creating droplets on Digital Ocean for use as WordPress hosts
+# ansible-role-cloud-server
+Ansible role for creating servers at a cloud provider
